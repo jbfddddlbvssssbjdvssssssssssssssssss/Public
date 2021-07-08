@@ -1,4 +1,5 @@
 #task0
+
 <img width="458" alt="image_2021-07-06_11-32-24" src="https://user-images.githubusercontent.com/85943419/124606371-80e58f00-de75-11eb-8b75-ae10e92314bf.png">
 git config —global user.name "..."
 
@@ -19,7 +20,9 @@ git config —global user.email "..."
 
 
 #task1
+
 <img width="453" alt="image_2021-07-08_22-36-30" src="https://user-images.githubusercontent.com/85943419/124983647-e6d24200-e040-11eb-8387-58e6faafe4ed.png">
+
 <img width="422" alt="image_2021-07-08_23-01-13" src="https://user-images.githubusercontent.com/85943419/124983665-eb96f600-e040-11eb-9767-07fef6b661fd.png">
 
 У мене відбувся тут misunderstanding. Я додала папку task0, в якій власне task0.py i README, після чого додала task1.py. В консолі(скріни зверху) ніби все успішно додалось, тому не розумію, де помилка. Але змін ніяких не бачу.. тому додала task1.py через github.
