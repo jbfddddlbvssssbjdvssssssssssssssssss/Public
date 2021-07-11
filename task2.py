@@ -5,7 +5,7 @@ import math
 root = tk.Tk()
 root.title('Task2.Calculator')
 root.configure(bg='#808080')
-#root.resizable(width=False, height=False)
+
 
 
 ent_field = tk.Entry(root, bg='#D3D3D3', fg='#000000', font=('Arial', 35),
