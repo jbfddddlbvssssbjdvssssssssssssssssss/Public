@@ -36,7 +36,7 @@ print("\nUpdated string with uppercase letters:\n   ", str)
 
 #Finding the max number with the help of average function max.
 
-numbers_max = max(numbers)
+#numbers_max = max(numbers)
 print("\nJust numbers:", numbers)
 print("The max number:", numbers_max)
 
