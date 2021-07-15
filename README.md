@@ -62,5 +62,7 @@ Thе bot gives you the covid-19 statistics for 5 countries located in Europe.
 <img width="863" alt="image_2021-07-15_15-48-40" src="https://user-images.githubusercontent.com/85943419/125791961-00cf2fef-bd03-4ae0-8ce2-0c2a7728244d.png">
 
 
+Updated the chatbot name
 
+![photo_2021-07-15_18-28-34](https://user-images.githubusercontent.com/85943419/125814885-0ef713b1-59a6-447d-b590-6cab5e3ddb0a.jpg)
 
