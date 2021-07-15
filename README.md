@@ -42,3 +42,25 @@ git config —global user.email "..."
 Програма демоснтрує статистику по covid-19 в 6 країнах Європи(Франція, Італія, Іспанія, Швейцарія, Німеччина, Греція) за наступними показниками(Загальна кількість випадків, загальна кількість смертей, кількість активних випадків зараження та загальна кількість одужавших).
 
 <img width="711" alt="image_2021-07-13_14-21-10" src="https://user-images.githubusercontent.com/85943419/125443839-79341c8e-e89c-4a9b-8bd2-4191ef197ebb.png">
+
+#task4
+
+Thе bot gives you the covid-19 statistics for 5 countries located in Europe.
+
+![photo_2021-07-15_15-32-16](https://user-images.githubusercontent.com/85943419/125791558-e2f4284a-7917-420f-840e-02800ac079c5.jpg)
+
+<img width="310" alt="image_2021-07-15_15-41-21" src="https://user-images.githubusercontent.com/85943419/125791581-7fd00e79-457a-4e46-94cb-10bc3679f491.png">
+
+<img width="303" alt="image_2021-07-15_15-48-52" src="https://user-images.githubusercontent.com/85943419/125791615-a2c48f10-197a-4c04-ada5-ac295b1b9806.png">
+
+<img width="292" alt="image_2021-07-15_15-43-28" src="https://user-images.githubusercontent.com/85943419/125791651-b050d724-bbf5-4313-b45f-95e3cbc8f175.png">
+
+<img width="856" alt="image_2021-07-15_15-48-18" src="https://user-images.githubusercontent.com/85943419/125791910-b56c0310-6eb9-4909-a3d6-61f02d9ebd68.png">
+
+<img width="858" alt="image_2021-07-15_15-48-30" src="https://user-images.githubusercontent.com/85943419/125791938-fdf5ea9d-b4c7-4d1a-8463-05956291db78.png">
+
+<img width="863" alt="image_2021-07-15_15-48-40" src="https://user-images.githubusercontent.com/85943419/125791961-00cf2fef-bd03-4ae0-8ce2-0c2a7728244d.png">
+
+
+
+
